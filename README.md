@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @designmartians
 - 👀 I’m interested in working with developers, stakeholders and engineers
-- 🌱 I’m currently learning all that I can before I die
+- 🌱 I’m currently learning all that I can afterall, knowledge is power
 - 💞️ I’m looking to collaborate on technical documents, proofreading, making documents user-friendly
 - 📫 How to reach me monica@designmartians.com
 
